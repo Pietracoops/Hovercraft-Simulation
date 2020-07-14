@@ -1,0 +1,7 @@
+﻿  shared_memory.cpp
+  SharedMemory.cpp
+c:\users\massimo\desktop\mech 415\mech415project\program_b\sharedmemory.cpp(52): warning C4018: '<' : signed/unsigned mismatch
+  program.cpp
+  Generating Code...
+program.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  program.vcxproj -> C:\Users\Massimo\Desktop\MECH 415\MECH415Project\program_B\.\Debug\program.exe

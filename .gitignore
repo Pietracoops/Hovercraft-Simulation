@@ -1,0 +1,48 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Logs
+*.tlog
+
+# Visual Studio Misc
+*.sdf
+*.opendb
+*.idb
+*.db
+*.iobj
+*.ipdb
+
+CapstoneNeuralNet/Dependencies/*
+CapstoneNeuralNet/.vs/*
+CapstoneNeuralNet/CapstoneNeuralNet/Data.txt
+CapstoneNeuralNet/CapstoneNeuralNet/output.txt
